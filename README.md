@@ -3,4 +3,5 @@
 ---
 РК2: https://github.com/NikolaySus/TMO-RK2
 ---
-Все ЛР: 
+Все ЛР: https://github.com/NikolaySus/TMO-LABS
+---
